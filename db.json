@@ -3,13 +3,13 @@
     {
       "id": 1,
       "title": "Apartman Mancic Zlatibor",
-      "images": "typicode",
+      "images": "https://zlatibor-booking.com/img/rooms/mancic2.jpg",
       "telephone": "064454546"
     },
     {
       "id": 2,
       "title": "Brvnare Mir Zlatibor",
-      "images": "typicode",
+      "images": "https://zlatibor-booking.com/img/rooms/brvnare-mir-02.jpg",
       "telephone": "064454546"
     },
     {
