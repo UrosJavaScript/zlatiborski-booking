@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Apartman Mancic Zlatibor",
+      "images": "typicode",
+      "telephone": "064454546"
+    },
+    {
+      "id": 2,
+      "title": "Brvnare Mir Zlatibor",
+      "images": "typicode",
+      "telephone": "064454546"
+    },
+    {
+      "id": 3,
+      "title": "Royal Apartman Zlatibor",
+      "images": "typicode",
+      "telephone": "064454546"
+    },
+    {
+      "id": 4,
+      "title": "Zlatibor Luxurycabin",
+      "images": "typicode",
+      "telephone": "064454546"
+    },
+    {
+      "id": 5,
+      "title": "Vip Bogic Apartman6",
+      "images": "typicode",
+      "telephone": "064454546"
+    },
+    {
+      "id": 6,
+      "title": "TimeOut Apartmani Zlatibor",
+      "images": "typicode",
+      "telephone": "064454546"
+    },
+    {
+      "id": 7,
+      "title": "GondolaLUX Apartman Zlatibor",
+      "images": "typicode",
+      "telephone": "064454546"
+    },
+    {
+      "id": 8,
+      "title": "TimeOut Wine1 Zlatibor",
+      "images": "typicode",
+      "telephone": "064454546"
+    },
+    {
+      "id": 9,
+      "title": "TimeOut Wine2 Zlatibor",
+      "images": "typicode",
+      "telephone": "064454546"
+    },
+    {
+      "id": 10,
+      "title": "Plavi TimeOut Apartman",
+      "images": "typicode",
+      "telephone": "064454546"
+    },
+    {
+      "id": 11,
+      "title": "Zuti TimeOut Apartman",
+      "images": "typicode",
+      "telephone": "064454546"
+    },
+    {
+      "id": 12,
+      "title": "LUX Bogic Apartman37",
+      "images": "typicode",
+      "telephone": "064454546"
+    }
+  ]
+}
