@@ -3,7 +3,11 @@
     {
       "id": 1,
       "title": "Apartman Mancic Zlatibor",
-      "images": "https://zlatibor-booking.com/img/rooms/mancic2.jpg",
+      "image-1": "mancic-apartman1",
+      "image-2": "mancic-apartman2",
+      "image-3": "mancic-apartman3",
+      "image-4": "mancic-apartman4",
+      "image-5": "mancic-apartman5",
       "telephone": "064454546"
     },
     {
