@@ -9,35 +9,6 @@
       "image4": "mancic-apartman4",
       "image5": "mancic-apartman5",
       "telephone": "064454546"
-      imagesObj: [ 
-        { "imageUrl": "https://zlatibor-booking.com/img/rooms/royal-apartmani7.jpg" }
-      ]
-
-posts = [
-			{
-      name: 'product1',
-      images: [
-        {
-          image: 'https://zlatibor-booking.com/img/rooms/brvnare-mir-02.jpg',
-          thumbImage:
-            'https://zlatibor-booking.com/img/rooms/brvnare-mir-02.jpg',
-          title: 'product1',
-        },
-        {
-          image: 'https://zlatibor-booking.com/img/rooms/brvnare-mir-02.jpg',
-          thumbImage:
-            'https://zlatibor-booking.com/img/rooms/brvnare-mir-02.jpg',
-          title: 'product1',
-        },
-        {
-          image: 'https://zlatibor-booking.com/img/rooms/brvnare-mir-02.jpg',
-          thumbImage:
-            'https://zlatibor-booking.com/img/rooms/brvnare-mir-02.jpg',
-          title: 'product1',
-        },
-      ],
-    },
-]
     },
     {
       "id": 2,
