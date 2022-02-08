@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Apartman Mancic Zlatibo",
-      "imgPictures": [
+      imgPictures: [
         {
             image1: 'mancic-apartman1',
       image2: 'mancic-apartman2',
