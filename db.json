@@ -3,7 +3,9 @@
     {
       "id": 1,
       "title": "Apartmani Mancic Zlatibor",
-      "imageUrl": "https://zlatibor-booking.com/img/rooms/royal-apartmani7.jpg"
+      "imagesObj": [ 
+        { "imageUrl": "https://zlatibor-booking.com/img/rooms/royal-apartmani7.jpg" }
+      ]
       "image1": "mancic-apartman1",
       "image2": "mancic-apartman2",
       "image3": "mancic-apartman3",
