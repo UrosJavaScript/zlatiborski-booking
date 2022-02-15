@@ -5,162 +5,126 @@
         "title": "Mančić Zlatibor",
         "image1": "mancic-apartman1",
         "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3",
-        "image4": "mancic-apartman4",
-        "image5": "mancic-apartman5"
+        "image3": "mancic-apartman3"
       },
       {
         "id": 2,
         "title": "Brvnare Mir",
         "image1": "mancic-apartman1",
         "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3",
-        "image4": "mancic-apartman4",
-        "image5": "mancic-apartman5"
+        "image3": "mancic-apartman3"
       },
       {
         "id": 3,
         "title": "Royal Apartmani",
         "image1": "mancic-apartman1",
         "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3",
-        "image4": "mancic-apartman4",
-        "image5": "mancic-apartman5"
+        "image3": "mancic-apartman3"
       },
       {
         "id": 4,
         "title": "Zlatibor LUXURYCABIN",
         "image1": "mancic-apartman1",
         "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3",
-        "image4": "mancic-apartman4",
-        "image5": "mancic-apartman5"
+        "image3": "mancic-apartman3"
       },
       {
         "id": 5,
         "title": "VIP BOGIĆ APARTMAN6",
         "image1": "mancic-apartman1",
         "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3",
-        "image4": "mancic-apartman4",
-        "image5": "mancic-apartman5"
+        "image3": "mancic-apartman3"
       },
       {
         "id": 6,
         "title": "VIP BOGIĆ APARTMAN16",
         "image1": "mancic-apartman1",
         "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3",
-        "image4": "mancic-apartman4",
-        "image5": "mancic-apartman5"
+        "image3": "mancic-apartman3"
       },
       {
         "id": 7,
         "title": "VIP BOGIĆ APARTMAN26",
         "image1": "mancic-apartman1",
         "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3",
-        "image4": "mancic-apartman4",
-        "image5": "mancic-apartman5"
+        "image3": "mancic-apartman3"
       },
       {
         "id": 8,
         "title": "VIP BOGIĆ APARTMAN29",
         "image1": "mancic-apartman1",
         "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3",
-        "image4": "mancic-apartman4",
-        "image5": "mancic-apartman5"
+        "image3": "mancic-apartman3"
       },
       {
         "id": 9,
         "title": "LUX BOGIĆ APARTMAN37",
         "image1": "mancic-apartman1",
         "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3",
-        "image4": "mancic-apartman4",
-        "image5": "mancic-apartman5"
+        "image3": "mancic-apartman3"
       },
       {
         "id": 10,
         "title": "VILA MARINA LUX1",
         "image1": "mancic-apartman1",
         "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3",
-        "image4": "mancic-apartman4",
-        "image5": "mancic-apartman5"
+        "image3": "mancic-apartman3"
       },
       {
         "id": 11,
         "title": "VILA MARINA LUX2",
         "image1": "mancic-apartman1",
         "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3",
-        "image4": "mancic-apartman4",
-        "image5": "mancic-apartman5"
+        "image3": "mancic-apartman3"
       },
       {
         "id": 12,
         "title": "ŽUTI TIME OUT",
         "image1": "mancic-apartman1",
         "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3",
-        "image4": "mancic-apartman4",
-        "image5": "mancic-apartman5"
+        "image3": "mancic-apartman3"
       },
       {
           "id": 13,
           "title": "TIME OUT LUX1",
           "image1": "mancic-apartman1",
           "image2": "mancic-apartman2",
-          "image3": "mancic-apartman3",
-          "image4": "mancic-apartman4",
-          "image5": "mancic-apartman5"
+          "image3": "mancic-apartman3"
       },
       {
           "id": 14,
           "title": "TIME OUT LUX2",
           "image1": "mancic-apartman1",
           "image2": "mancic-apartman2",
-          "image3": "mancic-apartman3",
-          "image4": "mancic-apartman4",
-          "image5": "mancic-apartman5"
+          "image3": "mancic-apartman3"
       },
       {
           "id": 15,
           "title": "PLAVI TIME OUT",
           "image1": "mancic-apartman1",
           "image2": "mancic-apartman2",
-          "image3": "mancic-apartman3",
-          "image4": "mancic-apartman4",
-          "image5": "mancic-apartman5"
+          "image3": "mancic-apartman3"
       },
       {
           "id": 16,
           "title": "TIME OUT WINE 1",
           "image1": "mancic-apartman1",
           "image2": "mancic-apartman2",
-          "image3": "mancic-apartman3",
-          "image4": "mancic-apartman4",
-          "image5": "mancic-apartman5"
+          "image3": "mancic-apartman3"
       },
       {
           "id": 17,
           "title": "TIME OUT WINE 2",
           "image1": "mancic-apartman1",
           "image2": "mancic-apartman2",
-          "image3": "mancic-apartman3",
-          "image4": "mancic-apartman4",
-          "image5": "mancic-apartman5"
+          "image3": "mancic-apartman3"
       },
       {
           "id": 18,
           "title": "GONDOLA LUX APARTMAN",
           "image1": "mancic-apartman1",
           "image2": "mancic-apartman2",
-          "image3": "mancic-apartman3",
-          "image4": "mancic-apartman4",
-          "image5": "mancic-apartman5"
+          "image3": "mancic-apartman3"
       }
     ]
   }
