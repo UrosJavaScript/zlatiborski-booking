@@ -1,123 +1,167 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Mančić Zlatibor",
-      "image1": "mancic-apartman1",
-      "image2": "mancic-apartman2",
-      "image3": "mancic-apartman3",
-      "image4": "mancic-apartman4",
-      "image5": "mancic-apartman5",
-      "desc": "Apartman Mančić kapaciteta do 4 osobe, potpuno prilagođen Vašim potrebama. Obradujte sebe i svoje voljene na svežem Zlatiborskom vazduhu. Apartman poseduje dnevnu sobu sa izlazom na terasu. Odvojenu spavaću sobu, kupatilo, kompletno opremljenu kuhinju, kablovska-nternet, I sprat"
-    },
-    {
-      "id": 2,
-      "title": "Brvnare Mir",
-      "image1": "mancic-apartman1",
-      "image2": "mancic-apartman2",
-      "image3": "mancic-apartman3",
-      "image4": "mancic-apartman4",
-      "image5": "mancic-apartman5",
-      "desc": "POTPUNO DRUGAČIJI OSEĆAJ BORAVKA NA ZLATIBORU ZA SVE VAS KOJI ŽELITE DA UŽIVATE U PRIRODNOM OKRUŽENJU. BRVNARE SU POTPUNO EKOLOŠKE NAPRAVLJENE OD DRVETA, SA IZVORSKOM VODOM I SOLARNIM NAPAJANJEM STRUJE. BRVNARA JE IDEALNA ZA SMEŠTAJ 4 OSOBE. SADRŽI NA PRVOM NIVOU DNEVNU SOBU SA PROSTRANIM KUPATILOM, KUHINJOM I USTAKLJENOM TERASOM, A NA SPRATU PROSTRANU SOBU SA BRAČNIM KREVETOM I DVA ODVOJENA KREVETA. NA SPRATU TAKOĐE IMA OTVORENU TERASU. SVAKA BRVNARA IMA SOPSTVENO DVORIŠTE. NA ZAHTEV GOSTIJU U PONUDI IMAMO I BICIKLE. IDEALNO JE ZA PORODICE SA DECOM JER U OVOM DELU NEMA SAOBRAĆAJA, STAZE ZA ŠETANJE SU ISPRED KUĆICA. GOSTI PO DOGOVORU MOGU IMATI I ČASOVE JOGE - INDIVIDUALNE ILI GRUPNE KAO I RADIONCE POZITIVNE PSIHOLOGIJE I RADIONICE PO PROGRAMU LUJZE HEJ - HEAL YOUR LIFE.  ZA NAŠE GOSTE MOŽEMO ORGANIZOVATI I IZLETE I RAZGLEDANJE PREDELA ZLATIBORA KOJE DO SADA NISU VIDELI DŽIPOVIMA ILI KVADOVIMA. BUĐENJE U DRVENIM BRVNARAMA SA POGLEDOM NA PRIRODU DAJE DIVAN OSEĆAJ OPUŠTANJA, MIRA, SPOKOJA I RADOSTI KOG NIKADA NIJE NA ODMET."
-    },
-    {
-      "id": 3,
-      "title": "Royal Apartmani",
-      "image1": "mancic-apartman1",
-      "image2": "mancic-apartman2",
-      "image3": "mancic-apartman3",
-      "image4": "mancic-apartman4",
-      "image5": "mancic-apartman5",
-      "desc": "APARTMAN ROYAL TITOVA VILA SE NALAZI U NOVOIZGRAĐENOM KOMPLEKSU TITOVA VILA, NA NADMORSKOJ VISINI OD PREKO 1000M, GDE JE VAZDUH ČIST I SVEŽ. ŠTO JE JOŠ VAŽNIJE, U BLIZINI SE NALAZI RUŽA VETROVA, MESTO NA KOME SE UKRŠTAJU MEDITERANSKI I KONTINENTALNI VETROVI. KOMPLEKS JE UDALJEN OD CENTRA ZLATIBORA OKO 800M. APARTMAN NUDI SMEŠTAJ ZA ČETIRI OSOBE I POTPUNO JE OPREMLJEN SA ODVOJENOM SPAVAĆOM SOBOM. GOSTI IMAJU MOGUĆNOST DA SAMI REGULIŠU TEMPERATURU U APARTMANU UZ POMOĆ TERMOSTATA. TOPLINI NAŠEG APARTMANA POSEBNO DOPRINOSI KAMIN, KOJI SE NALAZI U DNEVNOJ SOBI , PORED KOJEG JE UŽIVANJE I OPUŠTANJE ZAGARANTOVANO. SMEŠTAJNA JEDINICA SE SASTOJI IZ DNEVNE SOBE I TRPEZARIJE, KOJE SU SPOJENE SA KUHINJOM, ODVOJENE SPAVAĆE SOBE SA VELIKIM FRANCUSKIM LEŽAJEM, KUPATILOM I TERASOM. APARTMAN POSEDUJE NEZAVISNU INTERNET VEZU I KABLOVSKU TELEVIZIJU. KUHINJA JE POTPUNO OPREMLJENA, PORED PRIBORA ZA JELO I SVIH NEOPHODNIH UREĐAJA  UGRADNE PLOČE, RERNE, FRIŽIDER I ASPIRATOR, APARAT ZA ESPRESSO KAFU, POSTELJINE, PEŠKIRI, FEN ZA KOSU, KAO I PEGLA ZA PEGLANJE VEŠA, MAŠINA ZA PRANJE I SUŠENJE VEŠA. TAKOĐE SMO MISLILI I NA NAŠE NAJMLAĐE GOSTE, PA SMO ZA NJIH PRIPREMILI PRENOSIVI KREVETAC SA SVOM POTREBNOM POSTELJINOM, KAO I STOLICU ZA HRANJENJE"
-    },
-    {
-      "id": 4,
-      "title": "Zlatibor LUXURYCABIN",
-      "image1": "mancic-apartman1",
-      "image2": "mancic-apartman2",
-      "image3": "mancic-apartman3",
-      "image4": "mancic-apartman4",
-      "image5": "mancic-apartman5",
-      "desc": "LUKSUZNA VILA NALAZI SE NA 1450 METARA NADMORKSE VISNE KOD NAJLEPŠEG DELA TORNIKA. OKRUŽENA NAJLEPŠIM DELOVIMA PRIRODE, ČETINARIMA I PLANINSKOM IDILOM.  SPOJ ETNO I LUKSUZNOG STILA. ZA LJUBITELJE PRAVOG UŽIVANJA NA PLANINI. OPEN CONCEPT VILA NA TRI NIVOA, KAPACITETA ZA 12-15 OSOBA. VILA SADRŽI BAZEN, SAUNU, HOT-TUB, KAMIN."
-    },
-    {
-      "id": 5,
-      "title": "VIP BOGIĆ APARTMAN6",
-      "image1": "mancic-apartman1",
-      "image2": "mancic-apartman2",
-      "image3": "mancic-apartman3",
-      "image4": "mancic-apartman4",
-      "image5": "mancic-apartman5",
-      "desc": " LUKSUZNO OPREMLJEN POTPUNO NOV APARTMAN 47KVM, KAPACITETA 4-5 OSOBA. UDALJEN NA SAMO 50M OD ŠETALIŠTA, PIJACE, MARKETA, GLAVNE AUTOBUSKE STANICE, GONDOLE, SKIJALIŠTA. LOCIRAN NA POTPUNO MIRNOM I TIHOM MESTU ZA PRAVI ODMOR I SA PRELEPIM POGLEDOM NA ZELENU LIVADU SA BOROVIMA I ZIMI NA NAJVEĆE SKIJALIŠTE. APARTMAN POSEDUJE VELIKU DNEVNU SOBU SA IZLAZOM NA TERASU, KOMPLETNO OPREMLJENA KUHINJA SA TRPEZARIJOM, JEDNA SPAVAĆA SOBA, HODNIK I KUPATILO  PARKING MESTO-POD RAMPOM, TV KABLOVSKA, WIFI"
-    },
-    {
-      "id": 6,
-      "title": "VIP BOGIĆ APARTMAN16",
-      "image1": "mancic-apartman1",
-      "image2": "mancic-apartman2",
-      "image3": "mancic-apartman3",
-      "image4": "mancic-apartman4",
-      "image5": "mancic-apartman5",
-      "desc": "LUKSUZNO OPREMLJEN POTPUNO NOV APARTMAN, KAPACITETA 4-5 OSOBA. UDALJEN NA SAMO 50M OD ŠETALIŠTA, PIJACE, MARKETA, GLAVNE AUTOBUSKE STANICE, GONDOLE, SKIJALIŠTA. LOCIRAN NA POTPUNO MIRNOM I TIHOM MESTU ZA PRAVI ODMOR I SA PRELEPIM POGLEDOM NA ZELENU LIVADU SA BOROVIMA I ZIMI NA NAJVEĆE SKIJALIŠTE. APARTMAN POSEDUJE VELIKU DNEVNU SOBU SA IZLAZOM NA TERASU, KOMPLETNO OPREMLJENA KUHINJA SA TRPEZARIJOM  JEDNA SPAVAĆA SOBA, HODNIK I KUPATILO, PARKING MESTO-POD RAMPOM, TV KABLOVSKA, WIFI"
-    },
-    {
-      "id": 7,
-      "title": "VIP BOGIĆ APARTMAN26",
-      "image1": "mancic-apartman1",
-      "image2": "mancic-apartman2",
-      "image3": "mancic-apartman3",
-      "image4": "mancic-apartman4",
-      "image5": "mancic-apartman5",
-      "desc": "LUKSUZNO OPREMLJEN POTPUNO NOV APARTMAN KAPACITETA 4-5 OSOBA. UDALJEN NA SAMO 50M OD ŠETALIŠTA, PIJACE, MARKETA, GLAVNE AUTOBUSKE STANICE, GONDOLE, SKIJALIŠTA. LOCIRAN NA POTPUNO MIRNOM I TIHOM MESTU ZA PRAVI ODMOR I SA PRELEPIM POGLEDOM NA ZELENU LIVADU SA BOROVIMA I ZIMI NA NAJVEĆE SKIJALIŠTE. APARTMAN POSEDUJE VELIKU DNEVNU SOBU SA IZLAZOM NA TERASU, KOMPLETNO OPREMLJENA KUHINJA SA TRPEZARIJOM, JEDNA SPAVAĆA SOBA, HODNIK I KUPATILO  PARKING MESTO-POD RAMPOM, TV KABLOVSKA , WIFI"
-    },
-    {
-      "id": 8,
-      "title": "VIP BOGIĆ APARTMAN29",
-      "image1": "mancic-apartman1",
-      "image2": "mancic-apartman2",
-      "image3": "mancic-apartman3",
-      "image4": "mancic-apartman4",
-      "image5": "mancic-apartman5",
-      "desc": "LUX APARTMAN, POTPUNO NOV. UDALJEN NA SAMO 50M OD ŠETALIŠTA, PIJACE, MARKETA, GLAVNE AUTOBUSKE STANICE, GONDOLE, SKIJALIŠTA. LOCIRAN NA POTPUNO MIRNOM I TIHOM MESTU ZA PRAVI ODMOR I SA PRELEPIM POGLEDOM NA ZELENU LIVADU SA BOROVIMA I ZIMI NA NAJVEĆE SKIJALIŠTE. APARTMAN POSEDUJE VELIKU DNEVNU SOBU SA IZLAZOM NA TERASU, KOMPLETNO OPREMLJENA KUHINJA SA TRPEZARIJOM, JEDNA SPAVAĆA SOBA, HODNIK I KUPATILO  PARKING MESTO-POD RAMPOM, TV KABLOVSKA, WIFI"
-    },
-    {
-      "id": 9,
-      "title": "LUX BOGIĆ APARTMAN37",
-      "image1": "mancic-apartman1",
-      "image2": "mancic-apartman2",
-      "image3": "mancic-apartman3",
-      "image4": "mancic-apartman4",
-      "image5": "mancic-apartman5",
-      "desc": "LUX APARTMAN, POTPUNO NOV. UDALJEN NA SAMO 50M OD ŠETALIŠTA, PIJACE, MARKETA, GLAVNE AUTOBUSKE STANICE, GONDOLE, SKIJALIŠTA. LOCIRAN NA POTPUNO MIRNOM I TIHOM MESTU ZA PRAVI ODMOR I SA PRELEPIM POGLEDOM NA ZELENU LIVADU SA BOROVIMA I ZIMI NA NAJVEĆE SKIJALIŠTE. APARTMAN POSEDUJE VELIKU DNEVNU SOBU SA IZLAZOM NA TERASU, KOMPLETNO OPREMLJENA KUHINJA SA TRPEZARIJOM, JEDNA SPAVAĆA SOBA, HODNIK I KUPATILO  GARAŽNO MESTO, MAŠINA ZA SUDOVE, TV KABLOVSKA, WIFI"
-    },
-    {
-      "id": 10,
-      "title": "VILA MARINA LUX1",
-      "image1": "mancic-apartman1",
-      "image2": "mancic-apartman2",
-      "image3": "mancic-apartman3",
-      "image4": "mancic-apartman4",
-      "image5": "mancic-apartman5",
-      "desc": "VILA MARINA, POTPUNO NOV. UDALJEN NA SAMO 50M OD ŠETALIŠTA, PIJACE, MARKETA, GLAVNE AUTOBUSKE STANICE, GONDOLE, SKIJALIŠTA. LOCIRAN NA POTPUNO MIRNOM I TIHOM MESTU ZA PRAVI ODMOR I SA PRELEPIM POGLEDOM NA ZELENU LIVADU SA BOROVIMA I ZIMI NA NAJVEĆE SKIJALIŠTE.  VILA POSEDUJE TERASU SA FANTASTIČNIM POGLEDOM, KOMPLETNO OPREMLJENA KUHINJA SA TRPEZARIJOM, JEDNA SPAVAĆA SOBA, HODNIK I KUPATILO  MAŠINA ZA SUDOVE, PEGLA, GARAŽNO MESTO, TV KABLOVSKA, WIFI"
-    },
-    {
-      "id": 11,
-      "title": "VILA MARINA LUX2",
-      "image1": "mancic-apartman1",
-      "image2": "mancic-apartman2",
-      "image3": "mancic-apartman3",
-      "image4": "mancic-apartman4",
-      "image5": "mancic-apartman5",
-      "desc": "VILA MARINA LUX2, POTPUNO NOV. UDALJEN NA SAMO 50M OD ŠETALIŠTA, PIJACE, MARKETA, GLAVNE AUTOBUSKE STANICE, GONDOLE, SKIJALIŠTA. LOCIRAN NA POTPUNO MIRNOM I TIHOM MESTU ZA PRAVI ODMOR I SA PRELEPIM POGLEDOM NA ZELENU LIVADU SA BOROVIMA I ZIMI NA NAJVEĆE SKIJALIŠTE. VILA POSEDUJE TERASU SA FANTASTIČNIM POGLEDOM, KOMPLETNO OPREMLJENA KUHINJA SA TRPEZARIJOM, JEDNA SPAVAĆA SOBA, HODNIK I KUPATILO  MAŠINA ZA SUDOVE, PEGLA, GARAŽNO MESTO, TV KABLOVSKA, WIFI"
-    },
-    {
-      "id": 12,
-      "title": "LUX Bogic Apartman37",
-      "image1": "mancic-apartman1",
-      "image2": "mancic-apartman2",
-      "image3": "mancic-apartman3",
-      "image4": "mancic-apartman4",
-      "image5": "mancic-apartman5",
-    }
-  ]
-}
+    "posts": [
+      {
+        "id": 1,
+        "title": "Mančić Zlatibor",
+        "image1": "mancic-apartman1",
+        "image2": "mancic-apartman2",
+        "image3": "mancic-apartman3",
+        "image4": "mancic-apartman4",
+        "image5": "mancic-apartman5"
+      },
+      {
+        "id": 2,
+        "title": "Brvnare Mir",
+        "image1": "mancic-apartman1",
+        "image2": "mancic-apartman2",
+        "image3": "mancic-apartman3",
+        "image4": "mancic-apartman4",
+        "image5": "mancic-apartman5"
+      },
+      {
+        "id": 3,
+        "title": "Royal Apartmani",
+        "image1": "mancic-apartman1",
+        "image2": "mancic-apartman2",
+        "image3": "mancic-apartman3",
+        "image4": "mancic-apartman4",
+        "image5": "mancic-apartman5"
+      },
+      {
+        "id": 4,
+        "title": "Zlatibor LUXURYCABIN",
+        "image1": "mancic-apartman1",
+        "image2": "mancic-apartman2",
+        "image3": "mancic-apartman3",
+        "image4": "mancic-apartman4",
+        "image5": "mancic-apartman5"
+      },
+      {
+        "id": 5,
+        "title": "VIP BOGIĆ APARTMAN6",
+        "image1": "mancic-apartman1",
+        "image2": "mancic-apartman2",
+        "image3": "mancic-apartman3",
+        "image4": "mancic-apartman4",
+        "image5": "mancic-apartman5"
+      },
+      {
+        "id": 6,
+        "title": "VIP BOGIĆ APARTMAN16",
+        "image1": "mancic-apartman1",
+        "image2": "mancic-apartman2",
+        "image3": "mancic-apartman3",
+        "image4": "mancic-apartman4",
+        "image5": "mancic-apartman5"
+      },
+      {
+        "id": 7,
+        "title": "VIP BOGIĆ APARTMAN26",
+        "image1": "mancic-apartman1",
+        "image2": "mancic-apartman2",
+        "image3": "mancic-apartman3",
+        "image4": "mancic-apartman4",
+        "image5": "mancic-apartman5"
+      },
+      {
+        "id": 8,
+        "title": "VIP BOGIĆ APARTMAN29",
+        "image1": "mancic-apartman1",
+        "image2": "mancic-apartman2",
+        "image3": "mancic-apartman3",
+        "image4": "mancic-apartman4",
+        "image5": "mancic-apartman5"
+      },
+      {
+        "id": 9,
+        "title": "LUX BOGIĆ APARTMAN37",
+        "image1": "mancic-apartman1",
+        "image2": "mancic-apartman2",
+        "image3": "mancic-apartman3",
+        "image4": "mancic-apartman4",
+        "image5": "mancic-apartman5"
+      },
+      {
+        "id": 10,
+        "title": "VILA MARINA LUX1",
+        "image1": "mancic-apartman1",
+        "image2": "mancic-apartman2",
+        "image3": "mancic-apartman3",
+        "image4": "mancic-apartman4",
+        "image5": "mancic-apartman5"
+      },
+      {
+        "id": 11,
+        "title": "VILA MARINA LUX2",
+        "image1": "mancic-apartman1",
+        "image2": "mancic-apartman2",
+        "image3": "mancic-apartman3",
+        "image4": "mancic-apartman4",
+        "image5": "mancic-apartman5"
+      },
+      {
+        "id": 12,
+        "title": "ŽUTI TIME OUT",
+        "image1": "mancic-apartman1",
+        "image2": "mancic-apartman2",
+        "image3": "mancic-apartman3",
+        "image4": "mancic-apartman4",
+        "image5": "mancic-apartman5"
+      },
+      {
+          "id": 13,
+          "title": "TIME OUT LUX1",
+          "image1": "mancic-apartman1",
+          "image2": "mancic-apartman2",
+          "image3": "mancic-apartman3",
+          "image4": "mancic-apartman4",
+          "image5": "mancic-apartman5"
+      },
+      {
+          "id": 14,
+          "title": "TIME OUT LUX2",
+          "image1": "mancic-apartman1",
+          "image2": "mancic-apartman2",
+          "image3": "mancic-apartman3",
+          "image4": "mancic-apartman4",
+          "image5": "mancic-apartman5"
+      },
+      {
+          "id": 15,
+          "title": "PLAVI TIME OUT",
+          "image1": "mancic-apartman1",
+          "image2": "mancic-apartman2",
+          "image3": "mancic-apartman3",
+          "image4": "mancic-apartman4",
+          "image5": "mancic-apartman5"
+      },
+      {
+          "id": 16,
+          "title": "TIME OUT WINE 1",
+          "image1": "mancic-apartman1",
+          "image2": "mancic-apartman2",
+          "image3": "mancic-apartman3",
+          "image4": "mancic-apartman4",
+          "image5": "mancic-apartman5"
+      },
+      {
+          "id": 17,
+          "title": "TIME OUT WINE 2",
+          "image1": "mancic-apartman1",
+          "image2": "mancic-apartman2",
+          "image3": "mancic-apartman3",
+          "image4": "mancic-apartman4",
+          "image5": "mancic-apartman5"
+      },
+      {
+          "id": 18,
+          "title": "GONDOLA LUX APARTMAN",
+          "image1": "mancic-apartman1",
+          "image2": "mancic-apartman2",
+          "image3": "mancic-apartman3",
+          "image4": "mancic-apartman4",
+          "image5": "mancic-apartman5"
+      }
+    ]
+  }
+  
