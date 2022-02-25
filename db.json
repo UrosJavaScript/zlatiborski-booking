@@ -10,23 +10,23 @@
       {
         "id": 2,
         "title": "Brvnare Mir",
-        "image1": "mancic-apartman1",
-        "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3"
+        "image1": "brvnara-mir1",
+        "image2": "brvnara-mir2",
+        "image3": "brvnara-mir3"
       },
       {
         "id": 3,
         "title": "Royal Apartmani",
-        "image1": "mancic-apartman1",
-        "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3"
+        "image1": "royal1",
+        "image2": "royal2",
+        "image3": "royal3"
       },
       {
         "id": 4,
         "title": "Zlatibor LUXURYCABIN",
-        "image1": "mancic-apartman1",
-        "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3"
+        "image1": "lyxcabin1",
+        "image2": "lyxcabin2",
+        "image3": "lyxcabin3"
       },
       {
         "id": 5,
