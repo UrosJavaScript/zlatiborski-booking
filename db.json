@@ -31,100 +31,100 @@
       {
         "id": 5,
         "title": "VIP BOGIĆ APARTMAN6",
-        "image1": "mancic-apartman1",
-        "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3"
+        "image1": "bogic6-apartman1",
+        "image2": "bogic6-apartman2",
+        "image3": "bogic6-apartman3"
       },
       {
         "id": 6,
         "title": "VIP BOGIĆ APARTMAN16",
-        "image1": "mancic-apartman1",
-        "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3"
+        "image1": "bogic16-apartman1",
+        "image2": "bogic16-apartman2",
+        "image3": "bogic16-apartman3"
       },
       {
         "id": 7,
         "title": "VIP BOGIĆ APARTMAN26",
-        "image1": "mancic-apartman1",
-        "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3"
+        "image1": "bogic26-apartman1",
+        "image2": "bogic26-apartman2",
+        "image3": "bogic26-apartman3"
       },
       {
         "id": 8,
         "title": "VIP BOGIĆ APARTMAN29",
-        "image1": "mancic-apartman1",
-        "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3"
+        "image1": "bogic29-apartman1",
+        "image2": "bogic29-apartman2",
+        "image3": "bogic29-apartman3"
       },
       {
         "id": 9,
         "title": "LUX BOGIĆ APARTMAN37",
-        "image1": "mancic-apartman1",
-        "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3"
+        "image1": "bogic37-apartman1",
+        "image2": "bogic37-apartman2",
+        "image3": "bogic37-apartman3"
       },
       {
         "id": 10,
         "title": "VILA MARINA LUX1",
-        "image1": "mancic-apartman1",
-        "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3"
+        "image1": "marinalux1-apartman1",
+        "image2": "marinalux1-apartman2",
+        "image3": "marinalux1-apartman3"
       },
       {
         "id": 11,
         "title": "VILA MARINA LUX2",
-        "image1": "mancic-apartman1",
-        "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3"
+        "image1": "mlux2-apartman1",
+        "image2": "mlux2-apartman2",
+        "image3": "mlux2-apartman3"
       },
       {
         "id": 12,
         "title": "ŽUTI TIME OUT",
-        "image1": "mancic-apartman1",
-        "image2": "mancic-apartman2",
-        "image3": "mancic-apartman3"
+        "image1": "zuti-a1",
+        "image2": "zuti-a2",
+        "image3": "zuti-a3"
       },
       {
           "id": 13,
           "title": "TIME OUT LUX1",
-          "image1": "mancic-apartman1",
-          "image2": "mancic-apartman2",
-          "image3": "mancic-apartman3"
+          "image1": "tolux1-a1",
+          "image2": "tolux1-a2",
+          "image3": "tolux1-a3"
       },
       {
           "id": 14,
           "title": "TIME OUT LUX2",
-          "image1": "mancic-apartman1",
-          "image2": "mancic-apartman2",
-          "image3": "mancic-apartman3"
+          "image1": "tolux2-a1",
+          "image2": "tolux2-a2",
+          "image3": "tolux2-a3"
       },
       {
           "id": 15,
           "title": "PLAVI TIME OUT",
-          "image1": "mancic-apartman1",
-          "image2": "mancic-apartman2",
-          "image3": "mancic-apartman3"
+          "image1": "plavi-a1",
+          "image2": "plavi-a2",
+          "image3": "plavi-a3"
       },
       {
           "id": 16,
           "title": "TIME OUT WINE 1",
-          "image1": "mancic-apartman1",
-          "image2": "mancic-apartman2",
-          "image3": "mancic-apartman3"
+          "image1": "wine1-a1",
+          "image2": "wine1-a2",
+          "image3": "wine1-a3"
       },
       {
           "id": 17,
           "title": "TIME OUT WINE 2",
-          "image1": "mancic-apartman1",
-          "image2": "mancic-apartman2",
-          "image3": "mancic-apartman3"
+          "image1": "wine2-a1",
+          "image2": "wine2-a2",
+          "image3": "wine2-a3"
       },
       {
           "id": 18,
           "title": "GONDOLA LUX APARTMAN",
-          "image1": "mancic-apartman1",
-          "image2": "mancic-apartman2",
-          "image3": "mancic-apartman3"
+          "image1": "gondola-a1",
+          "image2": "gondola-a2",
+          "image3": "gondola-a3"
       }
     ]
   }
